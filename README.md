@@ -37,7 +37,7 @@ Using Command Prompt / Terminal
 
 Clone the repository:
 
-git clone https://github.com/YourUsername/Employee-Management-System-Java.git
+git clone https://github.com/swayamgupta302-crypto/Employee-Management-System-Java.git
 
 Go inside the project folder:
 
